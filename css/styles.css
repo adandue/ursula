@@ -179,6 +179,10 @@ ul {
     place-self: center center;
     color: white;
 }
+.telefono a {
+    text-decoration: none;
+    color: white;
+}
 .footer
 {
     height: 20px;
