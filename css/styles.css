@@ -111,7 +111,7 @@ ul {
 }
 .avances__text {
     grid-area: 2 / 2 / 2 / 2;
-    font-size: 200%;
+    font-size: 180%;
     place-self: center center;
 }
 .avances__diplomado {
@@ -177,6 +177,7 @@ ul {
 .telefono {
     grid-area: 3 / 2 / 3 / 2;
     place-self: center center;
+    color: white;
 }
 .footer
 {
