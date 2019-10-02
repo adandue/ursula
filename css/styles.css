@@ -239,14 +239,14 @@ ul {
         font-size: 150%;
     }
     .avances {
-        height: 1200px;
+        height: 900px;
         grid-template-rows: 20% 65% 15%;
     }
     .avances__title {
-        font-size: 200%;
+        font-size: 150%;
     }
     .avances__text {
-        font-size: 150%;
+        font-size: 110%;
     }
     .avances__diplomado {
         font-size: 110%;
